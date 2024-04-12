@@ -1,2 +1,2 @@
 # Electronic-Voting
-<a href="index.js">Click Here</a>
+<script src="index.js"></script>
